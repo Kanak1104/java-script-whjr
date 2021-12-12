@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title>Visual studio</title>
+    </head>
+        <body>
+        <h1>Abt Visual Studio</h1>
+        <script>
+            console.log("Coding class");
+            var k1="Kanak";
+var k2="Agrawal";
+var k3=k1.concat(k2);
+console.log(k3);
+               
+        </script>
+        </body>
+</html>
